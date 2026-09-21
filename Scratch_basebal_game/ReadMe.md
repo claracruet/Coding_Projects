@@ -1,6 +1,6 @@
 # Scratch Baseball Game
 
-To play click [here]([https://claracruet.github.io/Coding_Projects/Scratch_basebal_game/))
+To play click [here](https://claracruet.github.io/Coding_Projects/Scratch_basebal_game/)
 
 My CS50x Scratch project.
 
